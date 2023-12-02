@@ -27,12 +27,12 @@ const scrapeController = async (browserInstance) => {
         // ----------------------------
         // Scrape thông tin hội nghị từ core portal rồi lưu vào data.jon
 
-        // Lấy jump page (trang sau khi click vô search)
+        // B1. Lấy jump page (trang sau khi click vô search)
         let jumpPage = await scrapers.scarpeJumpPage(browser, url);
 
-        // Vô từng jump page để đọc thông tin các table
+        // B2. Vô từng jump page để đọc thông tin các table
 
-        for (let i = 1; i < 2; i++) {
+        for (let i = 1; i < 3; i++) {
             
             // Lấy danh sách hội nghị trong table
             let listData = await scrapers.scraper(browser, jumpPage + i);
@@ -58,7 +58,12 @@ const scrapeController = async (browserInstance) => {
             // Ghi danh sách hội nghị vào tệp data.json
             fs.writeFileSync('data.json', jsonData);
 
-            
+            // Tạo một thời gian ngẫu nhiên từ 1 đến 3 giây (1000ms = 1 giây)
+             const randomDelay = Math.floor(Math.random() * 2000) + 3000; // Từ 1000ms đến 3000ms
+
+            // Sử dụng setTimeout để tạm dừng thực thi mã trong khoảng thời gian ngẫu nhiên
+            setTimeout(function () {
+            }, randomDelay);
 
             console.log('Dữ liệu đã được ghi vào data.json.');
         }

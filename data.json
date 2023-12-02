@@ -1,432 +1,7 @@
 [
   {
-    "title": "International Conference on Advanced Communications and Computation",
-    "Acronym": "INFOCOMP",
-    "Source": "CORE2023",
-    "Rank": "Unranked",
-    "Note": "none",
-    "DBLP": "none",
-    "PrimaryFoR": "46",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.iaria.org/conferences/INFOCOMP.html",
-      "https://www.iaria.org/conferences2023/TouristINFOCOMP23.html",
-      "https://ieeexplore.ieee.org/xpl/conhome/10112659/proceeding",
-      "https://atc-conf.org/welcome-to-atc-2023/the-international-conference-on-advanced-technologies-for-communications"
-    ]
-  },
-  {
-    "title": "International Conference on Ambient Systems, Networks and Technologies",
-    "Acronym": "ANT",
-    "Source": "CORE2023",
-    "Rank": "Unranked",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "1",
-    "AverageRating": "4.0",
-    "link": [
-      "http://cs-conferences.acadiau.ca/ant-23/",
-      "https://dblp.org/db/conf/ant/index",
-      "http://cs-conferences.acadiau.ca/ant-23/",
-      "https://dblp.org/db/conf/ant/index"
-    ]
-  },
-  {
-    "title": "AAAI Conference on Human Computation and Crowdsourcing",
-    "Acronym": "HCOMP",
-    "Source": "CORE2023",
-    "Rank": "B",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4608",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.humancomputation.com/",
-      "https://www.humancomputation.com/program.html",
-      "https://www.humancomputation.com/submit.html",
-      "https://www.humancomputation.com/2022/"
-    ]
-  },
-  {
-    "title": "ACIS Conference on Software Engineering Research, Management and Applications",
-    "Acronym": "SERA",
-    "Source": "CORE2023",
-    "Rank": "C",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4612",
-    "Comments": "1",
-    "AverageRating": "4.0",
-    "link": [
-      "https://acisinternational.org/conferences/sera-2023/",
-      "https://hk.aconf.org/conf_186072",
-      "https://acisinternational.org/conferences/sera-2023/",
-      "https://hk.aconf.org/conf_186072"
-    ]
-  },
-  {
-    "title": "ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
-    "Acronym": "SIGCOMM",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "1",
-    "AverageRating": "5.0",
-    "link": [
-      "https://conferences.sigcomm.org/sigcomm/2023/",
-      "https://conferences.sigcomm.org/sigcomm/2023/program.html",
-      "https://conferences.sigcomm.org/sigcomm/2023/list-accepted.html",
-      "https://conferences.sigcomm.org/sigcomm/2023/cfp.html"
-    ]
-  },
-  {
-    "title": "ACM Conference on Computer and Communications Security",
-    "Acronym": "CCS",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4604",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.sigsac.org/ccs/CCS2023/",
-      "https://www.sigsac.org/ccs/CCS2023/call-for-paper.html",
-      "https://www.sigsac.org/ccs/CCS2023/registration.html",
-      "https://www.sigsac.org/ccs/CCS2023/orgs-program.html"
-    ]
-  },
-  {
-    "title": "ACM Conference on Computer Supported Cooperative Work",
-    "Acronym": "CSCW",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4608",
-    "Comments": "1",
-    "AverageRating": "5.0",
-    "link": [
-      "https://cscw.acm.org/2023/",
-      "https://cscw.acm.org/2023/index.php/submit-papers/",
-      "https://cscw.acm.org/2023/index.php/workshops/",
-      "https://cscw.acm.org/2023/index.php/program-overview/"
-    ]
-  },
-  {
-    "title": "ACM Conference on Economics and Computation",
-    "Acronym": "EC",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4602",
-    "Comments": "2",
-    "AverageRating": "5.0",
-    "link": [
-      "https://ec23.sigecom.org/",
-      "https://ec23.sigecom.org/call-for-contributions-acm/papers/",
-      "https://ec23.sigecom.org/program/accepted-papers/",
-      "https://ec23.sigecom.org/call-for-contributions-acm/workshops-tutorials/"
-    ]
-  },
-  {
-    "title": "ACM Conference on Embedded Networked Sensor Systems",
-    "Acronym": "SENSYS",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "http://sensys.acm.org/2023/",
-      "http://sensys.acm.org/2023/cfp/",
-      "http://sensys.acm.org/2023/program/",
-      "http://sensys.acm.org/2023/workshops/"
-    ]
-  },
-  {
-    "title": "ACM Conference on Embedded Software",
-    "Acronym": "EMSOFT",
-    "Source": "CORE2023",
-    "Rank": "Journal published",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://esweek.org/emsoft/",
-      "https://esweek.org/emsoft-call-for-papers-page/",
-      "https://esweek.org/emsoft-program-committee/",
-      "https://esweek.org/emsoft-call-for-wip-papers/"
-    ]
-  },
-  {
-    "title": "ACM Conference on Object Oriented Programming Systems Languages and Applications",
-    "Acronym": "OOPSLA",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4612",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://2023.splashcon.org/track/splash-2023-oopsla",
-      "https://2023.splashcon.org/venue/hotel-cascais-miragem",
-      "https://2023.splashcon.org/attending/Registration",
-      "https://2023.splashcon.org/track/splash-2023-Artifacts"
-    ]
-  },
-  {
-    "title": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
-    "Acronym": "ACM_WiSec",
-    "Source": "CORE2023",
-    "Rank": "B",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4604",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://wisec2023.surrey.ac.uk/program/",
-      "https://dl.acm.org/conference/wisec",
-      "https://wisec2023.surrey.ac.uk/program/",
-      "https://dl.acm.org/conference/wisec"
-    ]
-  },
-  {
-    "title": "ACM Information Technology Education",
-    "Acronym": "SIGITE",
-    "Source": "CORE2023",
-    "Rank": "National: USA",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4608",
-    "Comments": "1",
-    "AverageRating": "N/A",
-    "link": [
-      "https://dl.acm.org/doi/proceedings/10.1145/3585059",
-      "https://www.sigite.org/",
-      "https://dl.acm.org/doi/proceedings/10.1145/3585059",
-      "https://www.sigite.org/"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Advances in Computer Entertainment (merged with DIMEA, Digital Interactive Media in Entertainment and Arts, in 2009)",
-    "Acronym": "ACE",
-    "Source": "CORE2023",
-    "Rank": "C",
-    "Note": "See note",
-    "DBLP": "none",
-    "PrimaryFoR": "4607",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://mostwiedzy.pl/en/conference/acm-international-conference-on-advances-in-computer-entertainment,1-17",
-      "https://bw.intibs.pl/info/conferenceseries/WUT34075ae7d63042de9d33351ea0e05bf0/Conference%2Bseries%2B%25E2%2580%2593%2BACE%2B%2528DIMEA%2529%2B%25E2%2580%2593%2BInstitute%2Bof%2BLow%2BTemperature%2Band%2BStructure%2BResearch%2BPolish%2BAcademy%2Bof%2BSciences?r=conferenceseries&ps=20&tab=&lang=en",
-      "https://mostwiedzy.pl/en/conference/acm-international-conference-on-advances-in-computer-entertainment,1-17",
-      "https://bw.intibs.pl/info/conferenceseries/WUT34075ae7d63042de9d33351ea0e05bf0/Conference%2Bseries%2B%25E2%2580%2593%2BACE%2B%2528DIMEA%2529%2B%25E2%2580%2593%2BInstitute%2Bof%2BLow%2BTemperature%2Band%2BStructure%2BResearch%2BPolish%2BAcademy%2Bof%2BSciences?r=conferenceseries&ps=20&tab=&lang=en"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Advances in Geographic Information Systems",
-    "Acronym": "SIGSPATIAL",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4601",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://sigspatial2023.sigspatial.org/",
-      "https://sigspatial2023.sigspatial.org/cfp/",
-      "https://sigspatial2023.sigspatial.org/workshops/",
-      "https://sigspatial2023.sigspatial.org/org/"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Emerging Networking Experiments and Technologies",
-    "Acronym": "CoNEXT",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "1",
-    "AverageRating": "5.0",
-    "link": [
-      "https://conferences.sigcomm.org/co-next/2023/",
-      "https://dl.acm.org/conference/conext",
-      "https://conferences.sigcomm.org/co-next/2023/",
-      "https://dl.acm.org/conference/conext"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Information and Knowledge Management",
-    "Acronym": "CIKM",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://uobevents.eventsair.com/cikm2023/",
-      "https://uobevents.eventsair.com/cikm2023/pre-conference-programme",
-      "https://uobevents.eventsair.com/cikm2023/conference-venue",
-      "https://uobevents.eventsair.com/cikm2023/programme-1"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Interactive Surfaces and Spaces (was International Workshop on Horizontal Interactive Human-Computer Systems: Tabletop)",
-    "Acronym": "ISS",
-    "Source": "CORE2023",
-    "Rank": "Journal Published",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4608",
-    "Comments": "1",
-    "AverageRating": "4.0",
-    "link": [
-      "https://iss.acm.org/",
-      "https://iss2023.acm.org/",
-      "https://iss2023.acm.org/attending/registration",
-      "https://iss2023.acm.org/track/iss-2023-papers"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Knowledge Discovery and Data Mining",
-    "Acronym": "KDD",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "1",
-    "AverageRating": "N/A",
-    "link": [
-      "https://kdd.org/kdd2023/",
-      "https://kdd.org/kdd2023/call-for-research-track-papers/",
-      "https://kdd.org/kdd2023/workshops/",
-      "https://kdd.org/kdd2023/food-at-the-conference/"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Mobile Computing and Networking",
-    "Acronym": "MOBICOM",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://sigmobile.org/mobicom/2023/",
-      "https://sigmobile.org/mobicom/2023/program.html",
-      "https://sigmobile.org/mobicom/2023/cfp.html",
-      "https://sigmobile.org/mobicom/2023/accepted.html"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Recommender Systems",
-    "Acronym": "RecSys",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://recsys.acm.org/recsys23/#:~:text=Singapore%2C%2018th%2D22nd%20September%202023&text=RecSys%20brings%20together%20the%20major,commerce%20and%20other%20adjacent%20domains.",
-      "https://recsys.acm.org/recsys23/#:~:text=Singapore%2C%2018th%2D22nd%20September%202023&text=RecSys%20brings%20together%20the%20major,commerce%20and%20other%20adjacent%20domains.",
-      "https://recsys.acm.org/",
-      "https://recsys.acm.org/recsys23/"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Research and Development in Information Retrieval",
-    "Acronym": "SIGIR",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://sigir.org/sigir2023/",
-      "https://sigir.org/sigir2023/submit/call-for-full-papers/",
-      "https://sigir.org/sigir2023/attend/visa-information/",
-      "https://sigir.org/sigir2023/submit/call-for-sirip-2023industry-track/"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Supercomputing",
-    "Acronym": "ICS",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://nschiele.github.io/ICS2023/",
-      "https://dl.acm.org/conference/ics",
-      "https://www.ics-conference.org/",
-      "https://dl.acm.org/doi/proceedings/10.1145/3577193"
-    ]
-  },
-  {
-    "title": "ACM International Conference on Web Search and Data Mining",
-    "Acronym": "WSDM",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "See note",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.wsdm-conference.org/2023/",
-      "https://www.wsdm-conference.org/2023/calls/call-papers",
-      "https://www.wsdm-conference.org/2023/program/acm-proceedings",
-      "https://www.wsdm-conference.org/2023/venue-travel/conference-venue"
-    ]
-  },
-  {
-    "title": "ACM International Joint Conference on Pervasive and Ubiquitous Computing (PERVASIVE and UbiComp combined from 2013)",
-    "Acronym": "UbiComp",
-    "Source": "CORE2023",
-    "Rank": "journal published",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4608",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.ubicomp.org/ubicomp-iswc-2023/",
-      "https://www.ubicomp.org/ubicomp-iswc-2023/cfp/imwut_papers/",
-      "https://www.ubicomp.org/ubicomp-iswc-2023/program/workshops-and-symposia/",
-      "https://www.ubicomp.org/ubicomp-iswc-2023/families/"
-    ]
-  },
-  {
-    "title": "ACM International Symposium on Computer Architecture",
-    "Acronym": "ISCA",
+    "title": "ACM-SIGACT Symposium on Principles of Programming Languages",
+    "Acronym": "POPL",
     "Source": "CORE2023",
     "Rank": "A*",
     "Note": "none",
@@ -435,185 +10,49 @@
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://iscaconf.org/isca2023/",
-      "https://www.iscaconf.org/isca2023/program/",
-      "https://www.iscaconf.org/isca2023/submit/papers.php",
-      "https://www.iscaconf.org/isca2023/submit/guidelines.php"
+      "https://popl23.sigplan.org/",
+      "https://popl23.sigplan.org/track/POPL-2023-popl-research-papers",
+      "https://popl23.sigplan.org/home/CPP-2023",
+      "https://popl23.sigplan.org/home/VMCAI-2023"
     ]
   },
   {
-    "title": "ACM International Symposium on High Performance Distributed Computing",
-    "Acronym": "HPDC",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.hpdc.org/2023/",
-      "https://www.hpdc.org/2023/workshops/",
-      "https://www.hpdc.org/2023/program/keynote-speakers/",
-      "https://www.hpdc.org/2023/program/accepted/"
-    ]
-  },
-  {
-    "title": "ACM International Wireless Communications and Mobile Computing Conference",
-    "Acronym": "IWCMC",
-    "Source": "CORE2023",
-    "Rank": "B",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "1",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.iwcmc.org/",
-      "https://iwcmc.org/2023/program/",
-      "https://iwcmc.org/2023/committees/",
-      "https://iwcmc.org/2023/workshops/"
-    ]
-  },
-  {
-    "title": "ACM Multimedia",
-    "Acronym": "ACMMM",
+    "title": "ACM-SIGPLAN Conference on Programming Language Design and Implementation",
+    "Acronym": "PLDI",
     "Source": "CORE2023",
     "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4603",
-    "Comments": "2",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.acmmm2023.org/",
-      "https://www.acmmm2023.org/dates/",
-      "https://www.acmmm2023.org/cfp/",
-      "https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/"
-    ]
-  },
-  {
-    "title": "ACM SIG International Conference on Computer Graphics and Interactive Techniques",
-    "Acronym": "SIGGRAPH",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4607",
-    "Comments": "1",
-    "AverageRating": "5.0",
-    "link": [
-      "https://s2023.siggraph.org/",
-      "https://s2023.siggraph.org/about-the-conference/",
-      "https://s2023.siggraph.org/full-program/",
-      "https://s2023.siggraph.org/register/"
-    ]
-  },
-  {
-    "title": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
-    "Acronym": "SCA",
-    "Source": "CORE2023",
-    "Rank": "B",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4607",
-    "Comments": "1",
-    "AverageRating": "4.0",
-    "link": [
-      "https://computeranimation.org/",
-      "https://computeranimation.org/2022/",
-      "http://computeranimation.org/people/",
-      "https://computeranimation.org/program/"
-    ]
-  },
-  {
-    "title": "ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",
-    "Acronym": "Mobisys",
-    "Source": "CORE2023",
-    "Rank": "A",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "5",
-    "AverageRating": "5.0",
-    "link": [
-      "https://www.sigmobile.org/mobisys/2023",
-      "https://www.sigmobile.org/mobisys/2023/cfp.html",
-      "https://www.sigmobile.org/mobisys/2023/accepted-papers.html",
-      "https://www.sigmobile.org/mobisys/2023/program.html"
-    ]
-  },
-  {
-    "title": "ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems",
-    "Acronym": "PODS",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://2023.sigmod.org/",
-      "https://2023.sigmod.org/sigmod_research_list.shtml",
-      "https://2023.sigmod.org/calls_papers_important_dates.shtml",
-      "https://2023.sigmod.org/schedule_overview.shtml"
-    ]
-  },
-  {
-    "title": "ACM SIGOPS Symposium on Operating Systems Principles",
-    "Acronym": "SOSP",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://sosp2023.mpi-sws.org/",
-      "https://sosp2023.mpi-sws.org/accepted.html",
-      "https://sosp2023.mpi-sws.org/cfp.html",
-      "https://sosp2023.mpi-sws.org/reg.html"
-    ]
-  },
-  {
-    "title": "ACM SIGPLAN Conference on Languages, Tools, and Compilers for Embedded Systems",
-    "Acronym": "LCTES",
-    "Source": "CORE2023",
-    "Rank": "B",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://conf.researchr.org/series/LCTES",
-      "https://dl.acm.org/conference/LCTES",
-      "http://www.wikicfp.com/cfp/program?id=1950",
-      "https://dl.acm.org/doi/proceedings/10.1145/3589610"
-    ]
-  },
-  {
-    "title": "ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation",
-    "Acronym": "PEPM",
-    "Source": "CORE2023",
-    "Rank": "C",
     "Note": "none",
     "DBLP": "view",
     "PrimaryFoR": "4612",
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://popl23.sigplan.org/home/PEPM-2023",
-      "https://dl.acm.org/doi/proceedings/10.1145/3571786",
-      "https://popl23.sigplan.org/home/PEPM-2023",
-      "https://dl.acm.org/doi/proceedings/10.1145/3571786"
+      "https://pldi23.sigplan.org/",
+      "https://pldi23.sigplan.org/track/pldi-2023-pldi",
+      "https://pldi23.sigplan.org/home/LCTES-2023",
+      "https://pldi23.sigplan.org/home/SOAP-2023"
     ]
   },
   {
-    "title": "ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (was Parallel and Distributed Simulation)",
-    "Acronym": "PADS",
+    "title": "ACM-SIGRAPH Interactive 3D Graphics and Games",
+    "Acronym": "I3DG",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4607",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://i3dsymposium.org/2023/",
+      "https://i3dsymposium.org/2023/cfp.html",
+      "https://dl.acm.org/conference/i3d",
+      "https://easychair.org/cfp/i3d23"
+    ]
+  },
+  {
+    "title": "ACM/IEEE International Conference on Distributed Smart Cameras",
+    "Acronym": "ICDSC",
     "Source": "CORE2023",
     "Rank": "B",
     "Note": "none",
@@ -622,32 +61,15 @@
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://sigsim.acm.org/conf/pads/",
-      "https://dl.acm.org/doi/proceedings/10.1145/3573900",
-      "https://easychair.org/cfp/sigsim-pads23?spy=626122",
-      "http://www.wikicfp.com/cfp/program?id=2296"
+      "https://ieeexplore.ieee.org/xpl/conhome/1001918/all-proceedings",
+      "https://dl.acm.org/conference/icdsc",
+      "http://www.wikicfp.com/cfp/program?id=1340",
+      "https://academic-accelerator.com/Impact-of-Journal/Prediction/Acm-Ieee-International-Conference-On-Distributed-Smart-Cameras"
     ]
   },
   {
-    "title": "ACM SIGUCCS Conference on User Services",
-    "Acronym": "SIGUCCS",
-    "Source": "CORE2023",
-    "Rank": "National: USA",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4601",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://siguccs.org/Conference/2023/",
-      "https://dl.acm.org/doi/proceedings/10.1145/3539811",
-      "https://siguccs.org/Conference/2023/",
-      "https://dl.acm.org/doi/proceedings/10.1145/3539811"
-    ]
-  },
-  {
-    "title": "ACM Special Interest Group on Computer Science Education Conference",
-    "Acronym": "SIGCSE",
+    "title": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "Acronym": "HRI",
     "Source": "CORE2023",
     "Rank": "A",
     "Note": "none",
@@ -656,185 +78,746 @@
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://sigcse2023.sigcse.org/",
-      "https://sigcse2023.sigcse.org/program/program-sigcse-ts-2023/",
-      "https://sigcse2023.sigcse.org/track/sigcse-ts-2023-papers",
-      "https://sigcse2023.sigcse.org/track/sigcse-ts-2023-special-sessions"
+      "https://humanrobotinteraction.org/2023/",
+      "https://humanrobotinteraction.org/2023/toc/",
+      "https://humanrobotinteraction.org/2023/full-papers/",
+      "https://humanrobotinteraction.org/2023/workshops-and-tutorials/"
     ]
   },
   {
-    "title": "ACM Special Interest Group on Management of Data Conference",
-    "Acronym": "SIGMOD",
-    "Source": "CORE2023",
-    "Rank": "A*",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://2023.sigmod.org/",
-      "https://2023.sigmod.org/calls_papers_important_dates.shtml",
-      "https://2023.sigmod.org/sigmod_research_list.shtml",
-      "https://2023.sigmod.org/calls_papers_sigmod_research.shtml"
-    ]
-  },
-  {
-    "title": "ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000)",
-    "Acronym": "SACMAT",
-    "Source": "CORE2023",
-    "Rank": "C",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4604",
-    "Comments": "1",
-    "AverageRating": "4.0",
-    "link": [
-      "https://dl.acm.org/doi/proceedings/10.1145/344287",
-      "https://dl.acm.org/doi/proceedings/10.1145/2752952",
-      "https://mostwiedzy.pl/en/business/conference/acm-symposium-on-access-control-models-and-technologies-previously-acm-workshop-on-role-based-access,1-1318",
-      "https://dblp.org/db/conf/sacmat/index"
-    ]
-  },
-  {
-    "title": "ACM Symposium on Applied Computing",
-    "Acronym": "SAC",
-    "Source": "CORE2023",
-    "Rank": "Multiconference",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4601",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://www.sigapp.org/sac/sac2023/",
-      "https://www.sigapp.org/sac/sac2023/submission.html",
-      "https://www.sigapp.org/sac/sac2023/src_program.html",
-      "https://www.sigapp.org/sac/sac2023/authorkit.html"
-    ]
-  },
-  {
-    "title": "ACM Symposium on Document Engineering",
-    "Acronym": "DocEng",
-    "Source": "CORE2023",
-    "Rank": "B",
-    "Note": "none",
-    "DBLP": "view",
-    "PrimaryFoR": "4605",
-    "Comments": "0",
-    "AverageRating": "N/A",
-    "link": [
-      "https://doceng.org/doceng2023",
-      "https://dl.acm.org/conference/doceng",
-      "https://doceng.org/doceng2023",
-      "https://dl.acm.org/conference/doceng"
-    ]
-  },
-  {
-    "title": "ACM Symposium on Mobile Ad Hoc Networking and Computing",
-    "Acronym": "MOBIHOC",
+    "title": "ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",
+    "Acronym": "MSWIM",
     "Source": "CORE2023",
     "Rank": "A",
     "Note": "none",
     "DBLP": "view",
     "PrimaryFoR": "4606",
-    "Comments": "0",
-    "AverageRating": "N/A",
+    "Comments": "40",
+    "AverageRating": "5.0",
     "link": [
-      "https://www.sigmobile.org/mobihoc/2023/",
-      "https://www.sigmobile.org/mobihoc/2023/cfp.html",
-      "https://www.sigmobile.org/mobihoc/2023/program.html",
-      "https://www.sigmobile.org/mobihoc/2023/org-committee.html"
+      "https://mswimconf.com/",
+      "http://mswimconf.com/2022/",
+      "https://mswimconf.com/2023/poster-call.htm",
+      "https://www.myhuiban.com/conference/310?lang=en_us"
     ]
   },
   {
-    "title": "ACM Symposium on Principles of Distributed Computing",
-    "Acronym": "PODC",
+    "title": "ACM/IEEE Symposium on Edge Computing",
+    "Acronym": "SEC",
     "Source": "CORE2023",
-    "Rank": "A*",
+    "Rank": "unranked",
     "Note": "none",
     "DBLP": "view",
     "PrimaryFoR": "4606",
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://www.podc.org/",
-      "https://www.podc.org/podc2023/call-for-papers/",
-      "https://www.podc.org/podc2022/call-for-papers/",
-      "https://www.podc.org/2023-principles-of-distributed-computing-doctoral-dissertation-award/"
+      "https://acm-ieee-sec.org/",
+      "https://acm-ieee-sec.org/2023/call_for_papers.php",
+      "http://acm-ieee-sec.org/2022/",
+      "https://acm-ieee-sec.org/2023/program.php"
     ]
   },
   {
-    "title": "ACM Symposium on Solid and Physical Modelling",
-    "Acronym": "SPM",
+    "title": "ACM/IFIP/USENIX International Middleware Conference",
+    "Acronym": "Middleware",
     "Source": "CORE2023",
-    "Rank": "C",
-    "Note": "See note",
-    "DBLP": "none",
-    "PrimaryFoR": "4607",
-    "Comments": "0",
-    "AverageRating": "N/A",
+    "Rank": "A",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "1",
+    "AverageRating": "4.0",
     "link": [
-      "https://easychair.org/cfp/SPM-2023",
-      "https://spm2022.sciencesconf.org/",
-      "http://www.wikicfp.com/cfp/program?id=2752",
-      "https://dl.acm.org/conference/spm"
+      "https://middleware-conf.github.io/2023/",
+      "https://middleware-conf.github.io/2023/calls/call-for-research-papers/",
+      "https://middleware-conf.github.io/2023/conference-registration/",
+      "https://middleware-conf.github.io/2023/workshops/"
     ]
   },
   {
-    "title": "ACM Symposium on Theory of Computing",
-    "Acronym": "STOC",
+    "title": "ACM/SIAM Symposium on Discrete Algorithms",
+    "Acronym": "SODA",
     "Source": "CORE2023",
     "Rank": "A*",
     "Note": "none",
     "DBLP": "view",
     "PrimaryFoR": "4613",
-    "Comments": "1",
-    "AverageRating": "5.0",
+    "Comments": "0",
+    "AverageRating": "N/A",
     "link": [
-      "http://acm-stoc.org/stoc2023/",
-      "http://acm-stoc.org/stoc2023/STOCprogram.html",
-      "http://acm-stoc.org/stoc2023/accepted.html",
-      "http://acm-stoc.org/stoc2023/i.html"
+      "https://www.siam.org/conferences/cm/conference/soda23",
+      "https://www.siam.org/conferences/cm/program/soda23",
+      "https://www.siam.org/conferences/cm/submissions-and-deadlines/soda23-submissions-deadlines",
+      "https://epubs.siam.org/doi/10.1137/1.9781611977554"
     ]
   },
   {
-    "title": "ACM Symposium on User Interface Software and Technology",
-    "Acronym": "UIST",
+    "title": "ACM/SPEC International Conference on Performance Engineering",
+    "Acronym": "ICPE",
     "Source": "CORE2023",
-    "Rank": "A*",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4612",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://icpe2023.spec.org/",
+      "https://icpe2023.spec.org/call-for-contributions/",
+      "https://icpe2023.spec.org/workshops/",
+      "https://icpe2023.spec.org/proceedings/"
+    ]
+  },
+  {
+    "title": "ACS/IEEE International Conference on Computer Systems and Applications",
+    "Acronym": "AICCSA",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "46",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://aiccsa.net/AICCSA2023/",
+      "https://aiccsa.net/AICCSA2023/call-for-papers/",
+      "https://aiccsa.net/AICCSA2023/tracks-and-subtopics/",
+      "https://aiccsa.net/AICCSA2023/important-dates/"
+    ]
+  },
+  {
+    "title": "Advanced Concepts for Intelligent Vision Systems",
+    "Acronym": "ACIVS",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4603",
+    "Comments": "1",
+    "AverageRating": "3.0",
+    "link": [
+      "https://acivs.org/acivs2023/",
+      "https://link.springer.com/book/9783031453816",
+      "http://www.wikicfp.com/cfp/servlet/event.showcfp?copyownerid=90704&eventid=171273",
+      "https://link.springer.com/book/10.1007/978-3-030-40605-9"
+    ]
+  },
+  {
+    "title": "Advanced Visual Interfaces",
+    "Acronym": "AVI",
+    "Source": "CORE2023",
+    "Rank": "B",
     "Note": "none",
     "DBLP": "view",
     "PrimaryFoR": "4608",
     "Comments": "1",
     "AverageRating": "5.0",
     "link": [
-      "https://uist.acm.org/2023/",
-      "https://uist.acm.org/2023/cfp/",
-      "https://dl.acm.org/conference/uist",
-      "https://twitter.com/ACMUIST"
+      "http://www.wikicfp.com/cfp/program?id=265",
+      "https://dl.acm.org/conference/avi",
+      "https://internationalconferencealerts.com/eventdetails.php?id=2088495",
+      "https://internationalconferencealerts.com/eventdetails.php?id=2019596"
     ]
   },
   {
-    "title": "ACM Virtual Reality Software and Technology",
-    "Acronym": "VRST",
+    "title": "Advances in Cryptology",
+    "Acronym": "CRYPTO",
+    "Source": "CORE2023",
+    "Rank": "A*",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4604",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://link.springer.com/book/10.1007/978-3-031-38554-4",
+      "https://link.springer.com/book/10.1007/978-3-031-38554-4#toc",
+      "https://link.springer.com/book/10.1007/978-3-031-38554-4#about-this-book",
+      "https://link.springer.com/book/10.1007/978-3-031-38554-4#keywords"
+    ]
+  },
+  {
+    "title": "Advances in Modal Logic",
+    "Acronym": "AiML",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4613",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://www.aiml.net/",
+      "https://aiml2022.irisa.fr/",
+      "http://www.wikicfp.com/cfp/program?id=111",
+      "https://dblp.org/db/conf/aiml/index"
+    ]
+  },
+  {
+    "title": "Advances in Neural Information Processing Systems (was NIPS)",
+    "Acronym": "NeurIPS",
+    "Source": "CORE2023",
+    "Rank": "A*",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4611",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://nips.cc/",
+      "https://nips.cc/Conferences/2023/Dates",
+      "https://nips.cc/Conferences/FutureMeetings",
+      "https://nips.cc/Conferences/2023/Pricing"
+    ]
+  },
+  {
+    "title": "Algorithmic Learning Theory",
+    "Acronym": "ALT",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4611",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://algorithmiclearningtheory.org/alt2023/",
+      "http://algorithmiclearningtheory.org/alt2023/call-for-papers/",
+      "http://algorithmiclearningtheory.org/alt2023/accepted-papers/",
+      "http://algorithmiclearningtheory.org/alt2023/conference-schedule/"
+    ]
+  },
+  {
+    "title": "Algorithms and Data Structures Symposium (was Workshop on Algorithms and Data Structures)",
+    "Acronym": "WADS",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4613",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://wadscccg2023.encs.concordia.ca/#:~:text=The%2018th%20Algorithms%20and%20Data,same%20location%20August%202%2D4.",
+      "https://easychair.org/cfp/wads2023",
+      "http://www.wikicfp.com/cfp/program?id=2994",
+      "https://dblp.org/db/conf/wads/index"
+    ]
+  },
+  {
+    "title": "American Medical Informatics Annual Fall Symposium",
+    "Acronym": "AMIA",
+    "Source": "CORE2023",
+    "Rank": "National: USA",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4601",
+    "Comments": "2",
+    "AverageRating": "5.0",
+    "link": [
+      "https://amia.org/education-events/amia-2023-annual-symposium",
+      "https://amia.org/education-events/amia-2023-annual-symposium/call-participation",
+      "https://amia.org/education-events/amia-2023-annual-symposium/venue",
+      "https://amia.org/education-events/amia-2023-annual-symposium/registration"
+    ]
+  },
+  {
+    "title": "Annual Computer Security Applications Conference",
+    "Acronym": "ACSAC",
     "Source": "CORE2023",
     "Rank": "A",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4604",
+    "Comments": "4",
+    "AverageRating": "4.0",
+    "link": [
+      "https://www.acsac.org/",
+      "https://www.acsac.org/2023/submissions/papers/",
+      "https://www.acsac.org/2023/submissions/",
+      "https://www.acsac.org/2022/"
+    ]
+  },
+  {
+    "title": "Annual Conference on Computer Science Logic",
+    "Acronym": "CSL",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4613",
+    "Comments": "1",
+    "AverageRating": "N/A",
+    "link": [
+      "https://csl2023.mimuw.edu.pl/",
+      "https://csl2023.mimuw.edu.pl/?page_id=653",
+      "https://csl2023.mimuw.edu.pl/?page_id=711",
+      "https://csl2023.mimuw.edu.pl/?page_id=699"
+    ]
+  },
+  {
+    "title": "Annual Conference on Innovation and Technology in Computer Science Education",
+    "Acronym": "ITiCSE",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4608",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://iticse.acm.org/2023/",
+      "https://iticse.acm.org/2023/call-for-papers/",
+      "https://iticse.acm.org/2023/conference-program/",
+      "https://iticse.acm.org/2023/conference-committee/"
+    ]
+  },
+  {
+    "title": "Annual Conference on Privacy, Security and Trust",
+    "Acronym": "PST",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4604",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://www.wikicfp.com/cfp/servlet/event.showcfp?copyownerid=90704&eventid=171717#:~:text=2023%2020th%20Annual%20International%20Conference,August%2021%2D23%2C%202023.",
+      "https://pstnet.ca/",
+      "https://pstnet.ca/callforpapers.html",
+      "https://pstnet.ca/Program.html"
+    ]
+  },
+  {
+    "title": "Annual International Workshop on Presence",
+    "Acronym": "ISPR",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "See note",
+    "DBLP": "none",
+    "PrimaryFoR": "4607",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://vmrs.org.vn/khoa-hoc-quoc-te",
+      "https://aec-music.eu/event/aec-annual-meeting-for-international-relations-coordinators/programme",
+      "https://sscc.med.sa/2023/08/14/announcing-2023-sscc-annual-conference-5-7-dec-2023/",
+      "https://aec-music.eu/event/aec-annual-meeting-for-international-relations-coordinators/"
+    ]
+  },
+  {
+    "title": "Annual Meeting of the Cognitive Science Society",
+    "Acronym": "CogSci",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "See note",
+    "DBLP": "view",
+    "PrimaryFoR": "4602",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://cognitivesciencesociety.org/cogsci-2023/",
+      "https://cognitivesciencesociety.org/future-conferences/",
+      "https://www.openresearch.org/wiki/CogSci",
+      "https://www.openresearch.org/wiki/CogSci"
+    ]
+  },
+  {
+    "title": "Annual Meeting of the Special Interest Group on Discourse and Dialog",
+    "Acronym": "SIGdial",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4602",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://2023.sigdial.org/",
+      "https://www.sigdial.org/",
+      "https://aclanthology.org/volumes/2023.sigdial-1/",
+      "http://www.wikicfp.com/cfp/servlet/event.showcfp?copyownerid=90704&eventid=172062"
+    ]
+  },
+  {
+    "title": "Application of Concurrency to System Design",
+    "Acronym": "ACSD",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "See note",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://www.wikicfp.com/cfp/program?id=48",
+      "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=168074copyownerid=174789",
+      "https://dblp.org/db/conf/acsd/index",
+      "https://medium.com/must-know-computer-science/system-design-other-topics-b93b22828608#:~:text=Concurrency%20means%20executing%20multiple%20tasks,can%20be%20achieved%20through%20parallelism."
+    ]
+  },
+  {
+    "title": "Applications of Information Visualization",
+    "Acronym": "IV-App",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "none",
+    "PrimaryFoR": "4608",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://wikicfp.com/cfp/servlet/event.showcfp?eventid=167085&copyownerid=45217",
+      "https://www.interaction-design.org/literature/topics/information-visualization#:~:text=Information%20visualization%20is%20designed%20to,help%20persuade%20someone%20with%20data.",
+      "https://webcache.googleusercontent.com/search?q=cache:7Pw5fZyfz6cJ:https://www.interaction-design.org/literature/topics/information-visualization&hl=vi&gl=vn",
+      "https://www.knowledgehut.com/blog/business-intelligence-and-visualization/data-visualization-applications"
+    ]
+  },
+  {
+    "title": "Applications of Natural Language to Data Bases",
+    "Acronym": "NLDB",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4602",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://www.wikicfp.com/cfp/program?id=2213&f=Applications",
+      "https://mindtitan.com/resources/blog/natural-language-processing-applications/",
+      "https://intellipaat.com/blog/applications-of-nlp/",
+      "https://indatalabs.com/blog/applications-of-natural-language-processing-in-business"
+    ]
+  },
+  {
+    "title": "Applied Computing Conference",
+    "Acronym": "ACC",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "none",
+    "PrimaryFoR": "4601",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://www.computing-conf.org/",
+      "https://www.sigapp.org/sac/sac2023/",
+      "https://dl.acm.org/conference/sac",
+      "https://dl.acm.org/doi/proceedings/10.1145/3555776"
+    ]
+  },
+  {
+    "title": "Architectural Support for Programming Languages and Operating Systems",
+    "Acronym": "ASPLOS",
+    "Source": "CORE2023",
+    "Rank": "A*",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4612",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://dl.acm.org/conference/asplos",
+      "https://dl.acm.org/doi/proceedings/10.1145/3567955",
+      "https://dl.acm.org/conference/asplos/proceedings",
+      "https://dl.acm.org/conference/asplos/upcoming"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence Applications and Innovations",
+    "Acronym": "AIAI",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4601",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://ifipaiai.org/",
+      "https://ifipaiai.org/conference-history/",
+      "https://ifipaiai.org/proceedings/",
+      "https://ifipaiai.org/bibliometrics/"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence in Medicine in Europe",
+    "Acronym": "AIME",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4601",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://aime23.aimedicine.info/",
+      "https://aime23.aimedicine.info/index.php/program2",
+      "https://aime23.aimedicine.info/index.php/call-for-submissions",
+      "https://aime23.aimedicine.info/index.php/organization"
+    ]
+  },
+  {
+    "title": "ArtsIT, Interactivity & Game Creation (was International Conference on Arts and Technology)",
+    "Acronym": "ArtsIT",
+    "Source": "CORE2023",
+    "Rank": "C",
     "Note": "none",
     "DBLP": "view",
     "PrimaryFoR": "4607",
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://vrst.acm.org/vrst2023/",
-      "https://vrst.acm.org/vrst2023/program/",
-      "https://vrst.acm.org/vrst2023/submitting/",
-      "https://vrst.acm.org/vrst2023/registration/"
+      "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=174222&copyownerid=110304",
+      "https://artsit.eai-conferences.org/",
+      "https://artsit.eai-conferences.org/2022/",
+      "https://artsit.eai-conferences.org/2023/call-for-papers/"
     ]
   },
   {
-    "title": "ACM Workshop on Hot Topics in Networks",
-    "Acronym": "HOTNETS",
+    "title": "Asia and South Pacific Design Automation Conference",
+    "Acronym": "ASPDAC",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://www.aspdac.com/aspdac2023/",
+      "https://www.aspdac.com/",
+      "https://dl.acm.org/conference/aspdac",
+      "https://dl.acm.org/doi/proceedings/10.1145/3566097"
+    ]
+  },
+  {
+    "title": "Asia Conference on Information, Computer and Communications Security",
+    "Acronym": "AsiaCCS",
+    "Source": "CORE2023",
+    "Rank": "A",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4604",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://asiaccs2023.org/",
+      "https://asiaccs2023.org/datescalls/call-for-papers/",
+      "https://asiaccs2023.org/datescalls/important-dates/",
+      "https://dl.acm.org/doi/proceedings/10.1145/3579856"
+    ]
+  },
+  {
+    "title": "Asia Information Retrieval Symposium",
+    "Acronym": "AIRS",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4605",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://easychair.org/cfp/sigirap2023tutorials#:~:text=The%201st%20ACM%20SIGIR%2DAP,and%20after%20the%20main%20conference.",
+      "http://www.wikicfp.com/cfp/program?id=120",
+      "https://link.springer.com/conference/airs",
+      "https://dblp.org/db/conf/airs/index"
+    ]
+  },
+  {
+    "title": "Asia Pacific Conference on Communications",
+    "Acronym": "APCC",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://apcc2023.org/",
+      "https://apcc2023.org/?page_id=101",
+      "https://apcc2023.org/?page_id=11",
+      "https://apcc2023.org/?page_id=15"
+    ]
+  },
+  {
+    "title": "Asia Pacific Symposium on Intelligent and Evolutionary Systems (was Australia-Japan Joint Workshop on Intelligent and Evolutionary Systems)",
+    "Acronym": "IES",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "none",
+    "PrimaryFoR": "4602",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://mostwiedzy.pl/en/conference/australia-japan-joint-workshop-on-intelligent-and-evolutionary-systems,1-182",
+      "https://bibliografia.bg.szczecin.pl/ConferenceSeries/Details/6723",
+      "https://www.amazon.com.au/Proceedings-Pacific-Symposium-Intelligent-Evolutionary/dp/3030374416",
+      "https://catalogue.nla.gov.au/catalog/1175103"
+    ]
+  },
+  {
+    "title": "Asia-Pacific Bioinformatics Conference",
+    "Acronym": "APBC",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4601",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://bioinformatics.csu.edu.cn/APBC2023/",
+      "https://www.frontiersin.org/research-topics/53291/conference-research-topic-the-21st-asia-pacific-bioinformatics-conference-apbc-2023",
+      "https://www.myhuiban.com/conference/487?lang=en_us",
+      "http://www.wikicfp.com/cfp/program?id=192"
+    ]
+  },
+  {
+    "title": "Asia-Pacific Conference on Conceptual Modelling",
+    "Acronym": "APCCM",
+    "Source": "CORE2023",
+    "Rank": "Australasian C",
+    "Note": "none",
+    "DBLP": "none",
+    "PrimaryFoR": "4605",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://dl.acm.org/conference/apccm",
+      "http://www.wikicfp.com/cfp/program?id=194",
+      "https://apccm.org/",
+      "https://er2023.inesc-id.pt/"
+    ]
+  },
+  {
+    "title": "Asia-Pacific Network Operations and Management Symposium",
+    "Acronym": "APNOMS",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://www.myhuiban.com/conference/810?lang=en_us",
+      "https://ieeexplore.ieee.org/xpl/conhome/10258128/proceeding",
+      "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=173901&copyownerid=181661",
+      "https://research.com/conference/24th-asia-pacific-network-operations-and-management-symposium"
+    ]
+  },
+  {
+    "title": "Asia-Pacific Services Computing Conference",
+    "Acronym": "APSCC",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "none",
+    "DBLP": "none",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://www.wikicfp.com/cfp/program?id=204",
+      "https://ieeexplore.ieee.org/xpl/conhome/1001486/all-proceedings",
+      "https://apcc2023.org/?page_id=101",
+      "https://link.springer.com/conference/apscc"
+    ]
+  },
+  {
+    "title": "Asia-Pacific Software Engineering Conference",
+    "Acronym": "APSEC",
+    "Source": "CORE2023",
+    "Rank": "C",
+    "Note": "See note",
+    "DBLP": "view",
+    "PrimaryFoR": "4612",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://conf.researchr.org/home/apsec-2023",
+      "https://conf.researchr.org/track/apsec-2023/apsec-2023-software-engineering-education",
+      "https://conf.researchr.org/track/apsec-2023/apsec-2023-early-research-achievements",
+      "https://conf.researchr.org/track/apsec-2023/apsec-2023-technical-track"
+    ]
+  },
+  {
+    "title": "Asian Conference on Computer Vision",
+    "Acronym": "ACCV",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4603",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "http://www.spcva.net/#:~:text=2023%20Asia%20Conference%20on%20Signal,%2C%202023%20in%20Qingdao%2C%20China.",
+      "http://www.wikicfp.com/cfp/program?id=22",
+      "https://conferencealerts.com/show-event?id=249481",
+      "https://www.accv2022.org/"
+    ]
+  },
+  {
+    "title": "Asian Conference on Intelligent Information and Database Systems",
+    "Acronym": "ACIIDS",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4605",
+    "Comments": "133",
+    "AverageRating": "4.6",
+    "link": [
+      "https://aciids.pwr.edu.pl/",
+      "https://aciids.pwr.edu.pl/2023/",
+      "https://link.springer.com/conference/aciids",
+      "https://www.facebook.com/aciids/"
+    ]
+  },
+  {
+    "title": "Asian Conference on Machine Learning",
+    "Acronym": "ACML",
+    "Source": "CORE2023",
+    "Rank": "Unranked",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4611",
+    "Comments": "12",
+    "AverageRating": "4.7",
+    "link": [
+      "https://www.acml-conf.org/2023/",
+      "https://www.acml-conf.org/2023/cfp.html",
+      "https://www.acml-conf.org/2023/papers.html",
+      "https://www.acml-conf.org/2023/schedule.html"
+    ]
+  },
+  {
+    "title": "ASIAN Symposium on Programming Languages and Systems",
+    "Acronym": "APLAS",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4612",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://conf.researchr.org/home/aplas-2023",
+      "https://conf.researchr.org/series/aplas",
+      "http://www.wikicfp.com/cfp/program?id=198",
+      "https://www.stackscale.com/blog/most-popular-programming-languages/"
+    ]
+  },
+  {
+    "title": "Asilomar Conference on Signals, Systems and Computing",
+    "Acronym": "ACSSC",
     "Source": "CORE2023",
     "Rank": "National: USA",
     "Note": "none",
@@ -843,10 +826,27 @@
     "Comments": "0",
     "AverageRating": "N/A",
     "link": [
-      "https://conferences.sigcomm.org/hotnets/2023/",
-      "https://conferences.sigcomm.org/hotnets/2023/cfp.html",
-      "https://dl.acm.org/conference/hotnets",
-      "http://www.wikicfp.com/cfp/program?id=1212"
+      "https://www.asilomarsscconf.org/",
+      "https://www.asilomarsscconf.org/schedule.html",
+      "https://www.asilomarsscconf.org/PastConferences.html",
+      "https://www.asilomarsscconf.org/HotelRegistration.html"
+    ]
+  },
+  {
+    "title": "Association for Computational Linguistics",
+    "Acronym": "ACL",
+    "Source": "CORE2023",
+    "Rank": "A*",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4602",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://2023.aclweb.org/",
+      "https://2023.aclweb.org/calls/main_conference/",
+      "https://2023.aclweb.org/program/",
+      "https://2023.aclweb.org/program/best_papers/"
     ]
   }
 ]

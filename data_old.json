@@ -1,0 +1,155 @@
+[
+  {
+    "title": "International Conference on Advanced Communications and Computation",
+    "Acronym": "INFOCOMP",
+    "Source": "CORE2023",
+    "Rank": "Unranked",
+    "Note": "none",
+    "DBLP": "none",
+    "PrimaryFoR": "46",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://www.iaria.org/conferences2023/TouristINFOCOMP23.html",
+      "https://www.iaria.org/conferences/INFOCOMP.html",
+      "https://ieeexplore.ieee.org/xpl/conhome/10112659/proceeding",
+      "https://atc-conf.org/welcome-to-atc-2023/the-international-conference-on-advanced-technologies-for-communications"
+    ]
+  },
+  {
+    "title": "International Conference on Ambient Systems, Networks and Technologies",
+    "Acronym": "ANT",
+    "Source": "CORE2023",
+    "Rank": "Unranked",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "1",
+    "AverageRating": "4.0",
+    "link": [
+      "http://cs-conferences.acadiau.ca/ant-23/",
+      "https://dblp.org/db/conf/ant/index",
+      "http://cs-conferences.acadiau.ca/ant-23/",
+      "https://dblp.org/db/conf/ant/index"
+    ]
+  },
+  {
+    "title": "ACM-SIGRAPH Interactive 3D Graphics and Games",
+    "Acronym": "I3DG",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4607",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://i3dsymposium.org/2023/",
+      "https://i3dsymposium.org/2023/cfp.html",
+      "https://dl.acm.org/conference/i3d",
+      "https://easychair.org/cfp/i3d23"
+    ]
+  },
+  {
+    "title": "ACM/IEEE International Conference on Distributed Smart Cameras",
+    "Acronym": "ICDSC",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://ieeexplore.ieee.org/xpl/conhome/1001918/all-proceedings",
+      "https://dl.acm.org/conference/icdsc",
+      "http://www.wikicfp.com/cfp/program?id=1340",
+      "https://academic-accelerator.com/Impact-of-Journal/Prediction/Acm-Ieee-International-Conference-On-Distributed-Smart-Cameras"
+    ]
+  },
+  {
+    "title": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "Acronym": "HRI",
+    "Source": "CORE2023",
+    "Rank": "A",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4608",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://humanrobotinteraction.org/2023/",
+      "https://humanrobotinteraction.org/2023/toc/",
+      "https://humanrobotinteraction.org/2023/full-papers/",
+      "https://humanrobotinteraction.org/2023/workshops-and-tutorials/"
+    ]
+  },
+  {
+    "title": "ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",
+    "Acronym": "MSWIM",
+    "Source": "CORE2023",
+    "Rank": "A",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "40",
+    "AverageRating": "5.0",
+    "link": [
+      "https://mswimconf.com/",
+      "http://mswimconf.com/2022/",
+      "https://mswimconf.com/2023/poster-call.htm",
+      "https://www.myhuiban.com/conference/310?lang=en_us"
+    ]
+  },
+  {
+    "title": "ACM/IEEE Symposium on Edge Computing",
+    "Acronym": "SEC",
+    "Source": "CORE2023",
+    "Rank": "unranked",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://acm-ieee-sec.org/",
+      "https://acm-ieee-sec.org/2023/call_for_papers.php",
+      "http://acm-ieee-sec.org/2022/",
+      "https://acm-ieee-sec.org/2023/program.php"
+    ]
+  },
+  {
+    "title": "ACM/IFIP/USENIX International Middleware Conference",
+    "Acronym": "Middleware",
+    "Source": "CORE2023",
+    "Rank": "A",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4606",
+    "Comments": "1",
+    "AverageRating": "4.0",
+    "link": [
+      "https://middleware-conf.github.io/2023/",
+      "https://middleware-conf.github.io/2023/calls/call-for-research-papers/",
+      "https://middleware-conf.github.io/2023/conference-registration/",
+      "https://middleware-conf.github.io/2023/workshops/"
+    ]
+  },
+  {
+    "title": "ACM/SPEC International Conference on Performance Engineering",
+    "Acronym": "ICPE",
+    "Source": "CORE2023",
+    "Rank": "B",
+    "Note": "none",
+    "DBLP": "view",
+    "PrimaryFoR": "4612",
+    "Comments": "0",
+    "AverageRating": "N/A",
+    "link": [
+      "https://icpe2023.spec.org/",
+      "https://icpe2023.spec.org/call-for-contributions/",
+      "https://icpe2023.spec.org/workshops/",
+      "https://icpe2023.spec.org/proceedings/"
+    ]
+  }
+]
